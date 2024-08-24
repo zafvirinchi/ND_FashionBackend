@@ -108,7 +108,7 @@ All protected endpoints require the `Authorization` header with a valid token.
 
 ## Contact
 
-For any queries or issues, please contact **Ashok Zarmariya** at `ashokzarmariya@gmail.com`.
+For any queries or issues, please contact **Zafrul Islam** at `zafrul.techstack75@gmail.com`.
 
 ## License
 
