@@ -112,7 +112,7 @@ For any queries or issues, please contact **Zafrul Islam** at `zafrul.techstack7
 
 ## License
 
-This API is licensed under **Ashok Zarmariya**.
+This API is licensed under **Zafrul Islam**.
 
 
 
